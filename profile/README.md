@@ -1,8 +1,10 @@
-![Logo](https://avatars.githubusercontent.com/u/88191327?s=250)
+<p align="center" width="100%">
+    <img src="https://avatars.githubusercontent.com/u/88191327?s=225" alt="Logo"/>
+</p>
 
 ### About KirimKabar
 
-KirimKabar is a digital startup that focused on Wedding Management System, we provide not about wedding invitation service only. Feel free to visit regulary at https://kirimkabar.com as our website. Thank you!
+KirimKabar is a digital startup that focused on <b>Wedding Management System</b>, we provide <i>not about</i> wedding invitation service only. Feel free to visit regulary at https://kirimkabar.com as our website. Thank you!
 
 ### Acknowledgements
 
@@ -13,7 +15,7 @@ KirimKabar is a digital startup that focused on Wedding Management System, we pr
 
 ### Authors
 
-KirimKabar was originally `</>` with :heart: by:
+KirimKabar was `</>` with :heart: by:
 
 - [@mjamilasfihani](https://github.com/mjamilasfihani)
 - [@BimaBizz](https://github.com/BimaBizz)
