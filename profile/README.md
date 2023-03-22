@@ -22,4 +22,4 @@ KirimKabar was `</>` with :heart: by:
 
 ### License
 
-&copy; 2020-2023 [KirimKabar](https://kirimkabar.com/) All rights reserved.
+&copy; 2020-2023 [KirimKabar](https://kirimkabar.com/) - All rights reserved.
