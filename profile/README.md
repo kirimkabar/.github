@@ -1,1 +1,1 @@
-#### &copy; 2025 Kirimkabar | All rights reserved.
+<p> &copy; 2025 Kirimkabar &mdash; All rights reserved. </p>
